@@ -28,13 +28,13 @@ A PySpark-based end-to-end analytics pipeline for supply chain data. Ingest data
 
 ## Tech Stack
 
-| Component | Version |
-|-----------|---------|
-| PySpark   | 3.5.0   |
-| Hadoop    | 3.2.1   |
-| Matplotlib| ≥3.5.0  |
-| Python    | 3.x     |
-| Docker    | Compose 3.8 |
+| Component  | Version     |
+| ---------- | ----------- |
+| PySpark    | 3.5.0       |
+| Hadoop     | 3.2.1       |
+| Matplotlib | ≥3.5.0      |
+| Python     | 3.x         |
+| Docker     | Compose 3.8 |
 
 ## Project Structure
 
@@ -148,7 +148,3 @@ Uses the **DataCo Supply Chain Dataset**. Ensure your CSV includes columns such 
 ## HDFS Web UI
 
 - **NameNode UI:** [http://localhost:9870](http://localhost:9870) — browse HDFS and check data layout
-
-## License
-
-MIT (or your preferred license)
